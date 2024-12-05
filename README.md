@@ -1,1 +1,1 @@
-# Rust-Simple-Token-Swap-App
+# RustSimpleTokenSwapApp
